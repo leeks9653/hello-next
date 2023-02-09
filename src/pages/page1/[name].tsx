@@ -1,6 +1,6 @@
 import { GetServerSideProps } from "next";
 import React from "react";
-import Path from "../../src/components/Path";
+import Path from "../../components/Path";
 
 interface NamePageProps {
   param: string;

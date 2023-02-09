@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "short_name": "",
+  "description": "",
+  "background_color": "",
+  "display": "standalone",
+  "theme_color": "",
+  "icons": [
+    { "src": "", "type": "", "sizes": "" },
+    { "src": "", "type": "", "sizes": "" }
+  ]
+}
